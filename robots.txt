@@ -1,2 +1,5 @@
 User-agent: *
 Allow: /
+
+# Sitemap location
+Sitemap: https://www.mugshot-generator.com/sitemap.xml
